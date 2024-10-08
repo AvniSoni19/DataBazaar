@@ -1,8 +1,6 @@
 # insightWise
 An intelligent data platform that allows users to interact with product data through natural language.
 
-# Application Workflow for app.py
-
 ## Introduction
 This application is designed to process and analyze data using various tools and libraries. It integrates with OpenAI's API to provide intelligent responses and data manipulation capabilities.
 
