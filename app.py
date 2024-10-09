@@ -79,7 +79,7 @@ class InsightWise:
         Returns:
             None
         """
-        st.title("insightWise")
+        st.title("INSIGHTWISE")
         
         # # API Key Input if not already set
         # if not st.session_state.openai_api_key:
